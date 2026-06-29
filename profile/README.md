@@ -29,8 +29,8 @@ Our mission is to develop scientific knowledge, innovative technologies and open
 - ❤️ Health Informatics
 - ☀️ Renewable Energy
 - 🎸 Music Technology
-- 📚 Digital Education
 - 📈 Applied Mathematics
+- 📚 Digital Education
 
 ---
 
