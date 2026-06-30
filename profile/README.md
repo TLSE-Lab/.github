@@ -56,7 +56,7 @@ We welcome collaborations with:
 
 ---
 
-## Featured Projects
+## Research Programs
 
 - Artificial Intelligence
 - Data Science
