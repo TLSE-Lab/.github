@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="TLSE-Lab-Banner-GitHub.png" alt="TLSE-Lab Banner" width="100%">
+  <img src="../TLSE-Lab-Banner-GitHub.png" alt="TLSE-Lab Banner" width="100%">
 </p>
 
 <p align="center">
