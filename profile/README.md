@@ -14,9 +14,9 @@
 
 ## Welcome
 
-**TLSE-Lab (Toulouse Laboratory of Science and Engineering)** is an independent multidisciplinary research institute dedicated to advancing scientific knowledge and engineering solutions through research, innovation and education.
+**TLSE-Lab (Toulouse Laboratory of Science and Engineering)** is an independent multidisciplinary research institute dedicated to advancing science and engineering through research, innovation and education.
 
-Our mission is to conduct high-impact research, develop innovative technologies, contribute to scientific excellence, and promote knowledge transfer through education, collaboration and open dissemination of research outcomes.
+Our mission is to conduct high-impact research, develop innovative technologies, pursue scientific excellence, and foster knowledge transfer through education, collaboration and the open dissemination of research outcomes.
 
 ---
 
