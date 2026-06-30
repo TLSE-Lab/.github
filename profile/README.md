@@ -2,105 +2,88 @@
   <img src="../TLSE-Lab-Banner-GitHub.png" alt="TLSE-Lab Banner" width="100%">
 </p>
 
-<p align="center">
+# Toulouse Laboratory of Science and Engineering
 
-# TLSE-Lab
-
-### Toulouse Laboratory of Science and Engineering
+## TLSE-Lab
 
 **Independent Research Institute**
 
-*Based in Toulouse, France · International Collaboration · Open Science*
-
-</p>
+📍 **Toulouse, France** · 🌍 **International Collaboration**
 
 ---
 
 ## Welcome
 
-**TLSE-Lab (Toulouse Laboratory of Science and Engineering)** is an independent research institute based in Toulouse, France, bringing together researchers, engineers and students from around the world to advance science, engineering and innovation.
+**TLSE-Lab (Toulouse Laboratory of Science and Engineering)** is an independent multidisciplinary research institute dedicated to advancing scientific knowledge and engineering excellence through research, innovation and education.
 
-Our mission is to develop scientific knowledge, innovative technologies and open educational resources through interdisciplinary research, engineering excellence and international collaboration.
+Our mission is to conduct high-impact research, develop innovative technologies, contribute to scientific excellence, and promote knowledge transfer through education, collaboration and open dissemination of research outcomes.
 
 ---
 
-# Research Areas
+## Research Areas
 
-- 🤖 Artificial Intelligence
+- 🧠 Artificial Intelligence
 - 📊 Data Science
 - 💻 Software Engineering
-- 🔬 Scientific Computing
-- ❤️ Health Informatics
-- ☀️ Renewable Energy
-- 🎸 Music Technology
-- 📈 Applied Mathematics
-- 📚 Digital Education
+- 📐 Applied Mathematics
+- 🤖 Robotics and Intelligent Systems
+- 🛰️ Space Technologies
+- ⚡ Renewable Energy Systems
+- 🏥 Digital Health and Biomedical Engineering
+- 🌐 Computer Networks and Cybersecurity
+- 📚 Digital Education Technologies
 
 ---
 
-# Open Source Projects
+## Our Mission
 
-## 🎸 DadiExplorer
+TLSE-Lab aims to:
 
-A professional desktop application for guitar theory, fretboard visualization, Dadi rule exploration, MIDI analysis and interactive musical education.
-
-Future projects include:
-
-- Medical-AI
-- HIV Analytics
-- SolarLab
-- Research Portal
-- Education Platform
+- Advance scientific knowledge through fundamental and applied research.
+- Design innovative engineering solutions addressing societal and industrial challenges.
+- Promote interdisciplinary collaboration across scientific domains.
+- Support higher education through teaching, mentoring and scientific dissemination.
+- Foster partnerships with universities, research institutes, industry and international organizations.
 
 ---
 
-# Education
+## Collaboration
 
-TLSE-Lab develops educational resources for students, engineers and researchers including:
+We welcome collaborations with:
 
-- Courses
-- Tutorials
-- Scientific software
-- Documentation
+- 🎓 Universities
+- 🔬 Research Institutes
+- 🏭 Industry
+- 🏛️ Government Agencies
+- 🌍 International Organizations
+
+---
+
+## Featured Projects
+
+- Artificial Intelligence
+- Data Science
+- Research Software
+- Scientific Computing
+- Engineering Innovation
 - Open Educational Resources
 
 ---
 
-# Collaboration
-
-We welcome collaborations with:
-
-- Universities
-- Research laboratories
-- Scientific associations
-- Engineers
-- Developers
-- Students
-
-from all countries.
-
----
-
-# Website
+## Website
 
 🌐 https://tlse-lab.org
 
 ---
 
-# GitHub
+## Contact
 
-https://github.com/TLSE-Lab
-
----
-
-# Contact
-
-📧 Institutional contact address coming soon.
+📧 bachelin@gmail.com
 
 ---
 
 <p align="center">
 
-**Advancing Science • Engineering • Education • Innovation**
+**Advancing Knowledge Through Research, Innovation and Education**
 
 </p>
