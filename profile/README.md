@@ -11,36 +11,49 @@
 📍 **Toulouse, France** · 🌍 **International Collaboration**
 
 ---
+
 ## Welcome
 
-**TLSE-Lab (Toulouse Laboratory of Science and Engineering)** is an independent multidisciplinary research institute committed to advancing science and engineering for the benefit of society.
-
-Our mission is to generate new knowledge, create innovative technologies, pursue scientific excellence, and foster the transfer of scientific discoveries through education, collaboration and the open dissemination of research outcomes.
-
-## Research Areas
-
-- 🧠 Artificial Intelligence
-- 📊 Data Science
-- 💻 Software Engineering
-- 📐 Applied Mathematics
-- 🤖 Robotics and Intelligent Systems
-- 🛰️ Space Technologies
-- ⚡ Renewable Energy Systems
-- 🏥 Digital Health and Biomedical Engineering
-- 🌐 Computer Networks and Cybersecurity
-- 📚 Digital Education Technologies
+**TLSE-Lab (Toulouse Laboratory of Science and Engineering)** is an independent multidisciplinary research institute dedicated to developing computational methods, digital technologies and engineering solutions to address complex scientific and societal challenges through research, innovation and education.
 
 ---
 
-## Our Mission
+## Mission
 
-TLSE-Lab aims to:
+Our mission is to advance knowledge by generating scientific discoveries, developing innovative technologies, pursuing scientific excellence, and fostering the transfer of knowledge through education, collaboration and the open dissemination of research outcomes.
 
-- Advance scientific knowledge through fundamental and applied research.
-- Design innovative engineering solutions addressing societal and industrial challenges.
-- Promote interdisciplinary collaboration across scientific domains.
-- Support higher education through teaching, mentoring and scientific dissemination.
-- Foster partnerships with universities, research institutes, industry and international organizations.
+---
+
+## Scientific Foundations
+
+TLSE-Lab develops research and innovation in the following core scientific areas:
+
+- 🧠 Artificial Intelligence
+- 📊 Data Science & Analytics
+- 🖥️ Scientific Computing
+- 📐 Computational Modeling
+- 💻 Software & Digital Engineering
+
+---
+
+## Application Domains
+
+Our scientific methods are applied across multiple domains, including:
+
+- 🏥 Health & Biomedical Sciences
+- 🌿 Environment & Ecology
+- ⚡ Energy Systems
+- 🛰️ Space & Aerospace
+- 🏭 Industry & Smart Systems
+- 📚 Education & Learning Technologies
+
+---
+
+## Our Approach
+
+Rather than focusing on a single application domain, TLSE-Lab develops scientific methods and digital technologies that can be applied across multiple disciplines.
+
+This interdisciplinary approach enables us to address complex challenges by combining computational science, engineering, data-driven methodologies and domain expertise.
 
 ---
 
@@ -56,26 +69,9 @@ We welcome collaborations with:
 
 ---
 
-## Research Programs
-
-- Artificial Intelligence
-- Data Science
-- Research Software
-- Scientific Computing
-- Engineering Innovation
-- Open Educational Resources
-
----
-
 ## Website
 
 🌐 https://tlse-lab.org
-
----
-
-## Contact
-
-📧 bachelin@gmail.com
 
 ---
 
