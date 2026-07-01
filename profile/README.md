@@ -14,46 +14,46 @@
 
 ## Welcome
 
-**TLSE-Lab (Toulouse Laboratory of Science and Engineering)** is an independent multidisciplinary research institute dedicated to developing computational methods, digital technologies and engineering solutions to address complex scientific and societal challenges through research, innovation and education.
+**TLSE-Lab (Toulouse Laboratory of Science and Engineering)** is an independent multidisciplinary research institute dedicated to developing computational methods, digital technologies and engineering solutions that address complex scientific and societal challenges through research, innovation and education.
 
 ---
 
 ## Mission
 
-Our mission is to advance knowledge by generating scientific discoveries, developing innovative technologies, pursuing scientific excellence, and fostering the transfer of knowledge through education, collaboration and the open dissemination of research outcomes.
+Our mission is to advance knowledge by generating scientific discoveries, developing innovative technologies, pursuing scientific excellence, and fostering knowledge transfer through education, collaboration and the open dissemination of research outcomes.
 
 ---
 
-## Scientific Foundations
+## Core Scientific Expertise
 
-TLSE-Lab develops research and innovation in the following core scientific areas:
+TLSE-Lab develops scientific methods and engineering expertise in the following core areas:
 
 - 🧠 Artificial Intelligence
 - 📊 Data Science & Analytics
 - 🖥️ Scientific Computing
-- 📐 Computational Modeling
+- 📐 Computational Modeling & Simulation
 - 💻 Software & Digital Engineering
 
 ---
 
 ## Application Domains
 
-Our scientific methods are applied across multiple domains, including:
+Our scientific methods and engineering solutions are designed to be transferable across multiple application domains, including:
 
 - 🏥 Health & Biomedical Sciences
 - 🌿 Environment & Ecology
-- ⚡ Energy Systems
+- ⚡ Sustainable Energy Systems
 - 🛰️ Space & Aerospace
 - 🏭 Industry & Smart Systems
 - 📚 Education & Learning Technologies
 
 ---
 
-## Our Approach
+## Research Philosophy
 
-Rather than focusing on a single application domain, TLSE-Lab develops scientific methods and digital technologies that can be applied across multiple disciplines.
+TLSE-Lab believes that scientific progress is driven by the integration of computational methods, digital technologies and engineering sciences.
 
-This interdisciplinary approach enables us to address complex challenges by combining computational science, engineering, data-driven methodologies and domain expertise.
+Rather than focusing on a single application domain, we develop transferable scientific approaches that can be applied across multiple disciplines to generate knowledge, foster innovation and create lasting societal impact.
 
 ---
 
